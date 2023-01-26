@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Computer Science and Bioinformatics Senior at Faculty of Computers and Artificial Intelligence, Cairo University.
+
 September 2019 - July 2023.
 
 Interested in Computer Graphics, Data Visualization, Gaming Development and AR/XR/VR/MR .
