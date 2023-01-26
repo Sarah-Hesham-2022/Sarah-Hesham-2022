@@ -5,10 +5,10 @@ Graduation Expected Time is July 2023.
 
 Interested in Computer Graphics, Data Visualization, Gaming Development and AR/XR/VR/MR .
 
-Check out my Repos and feel free to leave your feedback.
+Check out my Repos. and feel free to leave your feedback.
 
 - 🌱 I’m currently learning 
-- 📫 How to reach me: https://www.linkedin.com/in/sarah-hesham-109a051b6/   or  sarahheshammahmoud@gmail.com
+- 📫 How to reach me: LinkedIN https://www.linkedin.com/in/sarah-hesham-109a051b6/   or Send an Email to  sarahheshammahmoud@gmail.com
 
 <!--
 **Sarah-Hesham-2022/Sarah-Hesham-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
