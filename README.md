@@ -8,8 +8,9 @@ Interested in Computer Graphics, Data Visualization, Gaming Development and AR/X
 Check out my repositories and feel free to leave your feedback.
 
 - 🌱 I’m currently studying and learning to gain more experience. 
-- 📫 How to reach me: Linkedin https://www.linkedin.com/in/sarah-hesham-109a051b6/   
-- Or send an E-mail to  sarahheshammahmoud@gmail.com
+- 📫 How to reach me: 
+- Linkedin: https://www.linkedin.com/in/sarah-hesham-109a051b6/   
+- E-mail  : sarahheshammahmoud@gmail.com
 
 <!--
 **Sarah-Hesham-2022/Sarah-Hesham-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
