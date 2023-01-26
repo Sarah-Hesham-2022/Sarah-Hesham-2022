@@ -7,7 +7,7 @@ Interested in Computer Graphics, Data Visualization, Gaming Development and AR/X
 
 Check out my repositories and feel free to leave your feedback.
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently studying and learning to gain more experience. 
 - 📫 How to reach me: Linkedin https://www.linkedin.com/in/sarah-hesham-109a051b6/   or Send an Email to  sarahheshammahmoud@gmail.com
 
 <!--
