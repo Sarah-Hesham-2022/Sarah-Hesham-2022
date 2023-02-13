@@ -14,9 +14,9 @@ Check out my repositories and feel free to leave your feedback.
 - ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
 - 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/sarah-hesham-109a051b6/ 
-![image](https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png)
+- ![image](https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png)
 - E-mail  : sarahheshammahmoud@gmail.com 
-![image](https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png)
+- ![image](https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png)
 - ✨✨✨ Feel free to contact me any time! ✨✨✨
 <!--
 **Sarah-Hesham-2022/Sarah-Hesham-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
