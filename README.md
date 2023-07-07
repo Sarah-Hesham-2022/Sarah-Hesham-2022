@@ -4,7 +4,7 @@ Computer Science and Bioinformatics Senior at Faculty of Computers and Artificia
 
 September 2019 - July 2023
 
-Interested in learning new technologies, especially Computer Graphics, Gaming Development and AR/XR/VR/MR .
+Interested in Artificial Intelligence, Machine Learning, Deep Learning, Bioinformatics, Computer Vision, Computer Graphics, Game Programming/Development and AR/VR/MR/XR.
 
 Check out my repositories and feel free to leave your feedback.
 
