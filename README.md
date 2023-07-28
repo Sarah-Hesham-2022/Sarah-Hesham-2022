@@ -4,8 +4,6 @@ Fresh graduate in Computer Science and Bioinformatics from the Faculty of Comput
 
 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
 
-I am always seeking opportunities to learn, gain experience, and develop my skills.
-
 Check out my repositories and feel free to leave your feedback.
 
 - 🌱 I’m currently studying and learning to gain more experience. 
