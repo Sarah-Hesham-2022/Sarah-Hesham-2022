@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Fresh graduate in Computer Science and Bioinformatics from the Faculty of Computers and Artificial Intelligence at Cairo University.
+2019 - 2023
 
 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
 
