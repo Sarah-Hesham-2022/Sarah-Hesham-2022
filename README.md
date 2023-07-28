@@ -6,7 +6,6 @@ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer
 
 Check out my repositories and feel free to leave your feedback.
 
-- 🌱 I’m currently studying and learning to gain more experience. 
 - 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
 - 💬 Ask me about any of my repositories and I will happily explain anything.
 - ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
