@@ -4,7 +4,7 @@ Fresh graduate in Computer Science and Bioinformatics from the Faculty of Comput
 
 2019 - 2023
 
-Interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
+Interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
 
 Check out my repositories and feel free to leave your feedback.
 
