@@ -13,7 +13,6 @@ Check out my repositories and feel free to leave your feedback.
 - ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
 - 📫 How to reach me: 
 - Linkedin: https://www.linkedin.com/in/sarah-hesham-109a051b6/ 
-- E-mail  : sarahheshammahmoud@gmail.com 
 - ✨✨✨ Feel free to contact me any time! ✨✨✨
   
 <!--
