@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Fresh graduate in Computer Science and Bioinformatics from the Faculty of Computers and Artificial Intelligence at Cairo University.
+Graduate in Computer Science and Bioinformatics from Faculty of Computers and Artificial Intelligence at Cairo University.
 
 2019 - 2023
 
