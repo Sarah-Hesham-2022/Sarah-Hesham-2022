@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-Graduated in Computer Science and Bioinformatics from the Faculty of Computers and Artificial Intelligence at Cairo University.
-
-2019 - 2023
-
 Interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
 
 Check out my repositories and feel free to leave your feedback.
