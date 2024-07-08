@@ -61,3 +61,8 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=radical)
 
 ---
+
+**Achievements:**
+
+![Starstruck]([https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png](https://github.com/users/Sarah-Hesham-2022/achievements/starstruck))
+*Achievement: Starstruck*
