@@ -1,54 +1,74 @@
 ### Hi there 👋
----
-
-**About Me:**
-
-- 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
-- 💬 Ask me about any of my repositories and I will happily explain anything.
-- ⚡ Fun fact: I love and enjoy learning the German and English languages in my free time.
-
----
 
 **Interests:**
 
-  * 💡 **Artificial Intelligence**
-  * 🤖 **Machine Learning**
-  * 📚 **Deep Learning**
-  * 🎨 **Generative AI**
-  * 🗣️ **Natural Language Processing**
-  * 📊 **Data Science**
-  * 👁️ **Computer Vision**
-  * 🧬 **Bioinformatics & Computational Biology**
-  * 🖥️ **Computer Graphics**
-  * 🎮 **Game Programming/Development**
-  * 🌐 **AR/VR/MR/XR**
+* Artificial Intelligence
+* Machine Learning
+* Deep Learning
+* Generative AI
+* Natural Language Processing
+* Data Science
+* Computer Vision
+* Bioinformatics & Computational Biology
+* Computer Graphics
+* Game Programming/Development
+* AR/VR/MR/XR
 
 ---
 
-**Check out my repositories and feel free to leave your feedback.**
+Check out my repositories and feel free to leave your feedback.
 
-
-**📫 How to reach me:**
-
-- 📧 **Email:** [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
-- 💼 **LinkedIn:** [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
-
-
-**✨✨✨ Feel free to contact me any time! ✨✨✨**
-
+- 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
+- 💬 Ask me about any of my repositories and I will happily explain anything.
+- ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
+- 📫 How to reach me:
+  - G-mail: sarahheshammahmoud@gmail.com
+  - Linkedin: [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
+- ✨✨✨ Feel free to contact me any time! ✨✨✨
 
 ---
+
+**Languages and Tools:**
+
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?&logo=C++&logoColor=fff)
+![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=fff)
+![Tcl](https://img.shields.io/badge/-Tcl-4682B4?&logo=tcl&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=sql&logoColor=fff)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=fff)
+![Prolog](https://img.shields.io/badge/-Prolog-E61B23?&logo=prolog&logoColor=fff)
+![Assembly](https://img.shields.io/badge/-Assembly-007ACC?&logo=assembly&logoColor=fff)
+
+---
+
+**Languages used in your repositories:**
+
+- **Jupyter Notebook:** 474,721 bytes
+- **C++:** 417,555 bytes
+- **Python:** 93,070 bytes
+- **ShaderLab:** 82,911 bytes
+- **C#:** 52,510 bytes
+- **HTML:** 52,145 bytes
+- **Assembly:** 39,130 bytes
+- **PHP:** 26,214 bytes
+- **CSS:** 25,452 bytes
+- **HLSL:** 13,994 bytes
+- **R:** 13,873 bytes
+- **JavaScript:** 6,250 bytes
+- **Tcl:** 2,673 bytes
+
+---
+
+**GitHub Stats:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sarah-Hesham-2022&theme=radical)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&color=blue)
+**GitHub Activity Graph:**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sarah-Hesham-2022&theme=react-dark)
+[![Sarah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sarah-Hesham-2022&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
+---
