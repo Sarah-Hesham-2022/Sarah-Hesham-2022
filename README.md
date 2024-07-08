@@ -64,7 +64,7 @@
 
 **Achievements:**
 
-**Achievements:**
-
-![Starstruck](https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png)
-*Achievement: Starstruck*
+<div align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" alt="Starstruck" />
+  <p><b>Achievement:</b> <a href="https://github.com/users/Sarah-Hesham-2022/achievements/starstruck">Starstruck</a></p>
+</div>
