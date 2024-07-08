@@ -1,6 +1,19 @@
 ### Hi there 👋
 
-Interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Computer Vision, Bioinformatics, Computer Graphics, Game Programming/Development, and AR/VR/MR/XR.
+**Interests:**
+
+  * Artificial Intelligence
+  * Machine Learning
+  * Deep Learning
+  * Generative AI
+  * Natural Language Processing
+  * Data Science
+  * Computer Vision
+  * Bioinformatics & Computational Biology
+  * Computer Graphics
+  * Game Programming/Development
+  * AR/VR/MR/XR
+
 
 Check out my repositories and feel free to leave your feedback.
 
