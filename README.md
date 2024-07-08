@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+---
+
 **Interests:**
 
 - Artificial Intelligence
@@ -16,7 +18,7 @@
 
 ---
 
-Check out my repositories and feel free to leave your feedback.
+✨✨✨ Check out my repositories and feel free to leave your feedback! ✨✨✨
 
 - 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
 - 💬 Ask me about any of my repositories and I will happily explain anything.
@@ -24,21 +26,22 @@ Check out my repositories and feel free to leave your feedback.
 - 📫 How to reach me:
   - Gmail: [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
   - Linkedin: [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
-- ✨✨✨ Feel free to contact me any time! ✨✨✨
+
+✨✨✨ Feel free to contact me any time! ✨✨✨
 
 ---
 
 **Languages and Tools:**
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?&logo=C++&logoColor=fff)
-![R](https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=fff)
-![Tcl](https://img.shields.io/badge/-Tcl-4682B4?&logo=tcl&logoColor=fff)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?&logo=sql&logoColor=fff)
-![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=fff)
-![Prolog](https://img.shields.io/badge/-Prolog-E61B23?&logo=prolog&logoColor=fff)
-![Assembly](https://img.shields.io/badge/-Assembly-007ACC?&logo=assembly&logoColor=fff)
+<img src="https://img.shields.io/badge/-Python-000?&logo=Python" height="30">
+<img src="https://img.shields.io/badge/-C++-00599C?&logo=C++&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-R-276DC3?&logo=R&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-C%23-239120?&logo=c-sharp&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-Tcl-4682B4?&logo=tcl&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-SQL-4479A1?&logo=sql&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-Unity-000?&logo=unity&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-Prolog-E61B23?&logo=prolog&logoColor=fff" height="30">
+<img src="https://img.shields.io/badge/-Assembly-007ACC?&logo=assembly&logoColor=fff" height="30">
 
 ---
 
@@ -46,11 +49,5 @@ Check out my repositories and feel free to leave your feedback.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&theme=radical)
-
----
-
-**GitHub Activity Graph:**
-
-[![Sarah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarah-Hesham-2022&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
