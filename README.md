@@ -21,8 +21,8 @@ Check out my repositories and feel free to leave your feedback.
 - 💬 Ask me about any of my repositories and I will happily explain anything.
 - ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
 - 📫 How to reach me:
-     - G-mail: sarahheshammahmoud@gmail.com
-     - Linkedin: https://www.linkedin.com/in/sarah-hesham-109a051b6/ 
+     - G-mail:    sarahheshammahmoud@gmail.com
+     - Linkedin:  https://www.linkedin.com/in/sarah-hesham-109a051b6/ 
 - ✨✨✨ Feel free to contact me any time! ✨✨✨
   
 <!--
