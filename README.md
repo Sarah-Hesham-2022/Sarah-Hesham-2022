@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Profile Banner](https://example.com/your-banner-image.jpg)
-
 **Interests:**
 
   * 💡 **Artificial Intelligence**
@@ -35,18 +33,15 @@
 
 **✨✨✨ Feel free to contact me any time! ✨✨✨**
 
-![Contact Banner](https://example.com/your-contact-image.jpg)
-
 ---
 
 **Check out my repositories and feel free to leave your feedback.**
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&theme=radical)
 
   
 <!--
