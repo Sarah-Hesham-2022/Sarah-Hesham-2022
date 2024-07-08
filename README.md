@@ -10,7 +10,7 @@
 **📫 How to reach me:**
 
 - 📧 **Email:** [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
-- 💼 **LinkedIn:** [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/sarah-hesham-109a051b6/)
 
 **✨✨✨ Feel free to contact me any time! ✨✨✨**
 
@@ -69,8 +69,5 @@
 ![GitHub stars](https://img.shields.io/github/stars/Sarah-Hesham-2022?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Sarah-Hesham-2022?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Sarah-Hesham-2022?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/Sarah-Hesham-2022/your-repo-name)
-![GitHub last commit](https://img.shields.io/github/last-commit/Sarah-Hesham-2022/your-repo-name)
-![GitHub license](https://img.shields.io/github/license/Sarah-Hesham-2022/your-repo-name)
 
 ---
