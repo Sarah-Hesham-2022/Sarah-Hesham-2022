@@ -2,17 +2,17 @@
 
 **Interests:**
 
-* Artificial Intelligence
-* Machine Learning
-* Deep Learning
-* Generative AI
-* Natural Language Processing
-* Data Science
-* Computer Vision
-* Bioinformatics & Computational Biology
-* Computer Graphics
-* Game Programming/Development
-* AR/VR/MR/XR
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Natural Language Processing
+- Data Science
+- Computer Vision
+- Bioinformatics & Computational Biology
+- Computer Graphics
+- Game Programming/Development
+- AR/VR/MR/XR
 
 ---
 
@@ -20,9 +20,9 @@ Check out my repositories and feel free to leave your feedback.
 
 - 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
 - 💬 Ask me about any of my repositories and I will happily explain anything.
-- ⚡ Fun fact: I love and enjoy learning the German and English Languages at my free time.
+- ⚡ Fun fact: I love and enjoy learning the German and English languages in my free time.
 - 📫 How to reach me:
-  - G-mail: sarahheshammahmoud@gmail.com
+  - Gmail: [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
   - Linkedin: [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
 - ✨✨✨ Feel free to contact me any time! ✨✨✨
 
@@ -42,24 +42,6 @@ Check out my repositories and feel free to leave your feedback.
 
 ---
 
-**Languages used in your repositories:**
-
-- **Jupyter Notebook:** 474,721 bytes
-- **C++:** 417,555 bytes
-- **Python:** 93,070 bytes
-- **ShaderLab:** 82,911 bytes
-- **C#:** 52,510 bytes
-- **HTML:** 52,145 bytes
-- **Assembly:** 39,130 bytes
-- **PHP:** 26,214 bytes
-- **CSS:** 25,452 bytes
-- **HLSL:** 13,994 bytes
-- **R:** 13,873 bytes
-- **JavaScript:** 6,250 bytes
-- **Tcl:** 2,673 bytes
-
----
-
 **GitHub Stats:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=radical)
@@ -69,6 +51,6 @@ Check out my repositories and feel free to leave your feedback.
 
 **GitHub Activity Graph:**
 
-[![Sarah's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sarah-Hesham-2022&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sarah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sarah-Hesham-2022&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
