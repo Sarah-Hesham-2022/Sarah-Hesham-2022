@@ -69,5 +69,9 @@
 ![GitHub stars](https://img.shields.io/github/stars/Sarah-Hesham-2022?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Sarah-Hesham-2022?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Sarah-Hesham-2022?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sarah-Hesham-2022/ComputerGraphics-Algorithms-With-CPP)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sarah-Hesham-2022/ComputerGraphics-Algorithms-With-CPP)
+![GitHub license](https://img.shields.io/github/license/Sarah-Hesham-2022/ComputerGraphics-Algorithms-With-CPP)
+
 
 ---
