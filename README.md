@@ -1,33 +1,36 @@
 ### Hi there 👋
 
-**About me:**
-
-✨✨✨ Check out my repositories and feel free to leave your feedback! ✨✨✨
+**About Me:**
 
 - 🤔 I’m always seeking opportunities to learn more, gain experience and develop my skills.
 - 💬 Ask me about any of my repositories and I will happily explain anything.
 - ⚡ Fun fact: I love and enjoy learning the German and English languages in my free time.
-- 📫 How to reach me:
-  - Gmail: [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
-  - Linkedin: (https://www.linkedin.com/in/sarah-hesham-109a051b6/)
 
-✨✨✨ Feel free to contact me any time! ✨✨✨
+
+**📫 How to reach me:**
+
+- 📧 **Email:** [sarahheshammahmoud@gmail.com](mailto:sarahheshammahmoud@gmail.com)
+- 💼 **LinkedIn:** [Sarah Hesham](https://www.linkedin.com/in/sarah-hesham-109a051b6/)
+
+**✨✨✨ Feel free to contact me any time! ✨✨✨**
 
 ---
 
 **Interests:**
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Natural Language Processing
-- Data Science
-- Computer Vision
-- Bioinformatics & Computational Biology
-- Computer Graphics
-- Game Programming/Development
-- AR/VR/MR/XR
+  * 💡 **Artificial Intelligence**
+  * 🤖 **Machine Learning**
+  * 📚 **Deep Learning**
+  * 🎨 **Generative AI**
+  * 🗣️ **Natural Language Processing**
+  * 📊 **Data Science**
+  * 👁️ **Computer Vision**
+  * 🧬 **Bioinformatics & Computational Biology**
+  * 🖥️ **Computer Graphics**
+  * 🎮 **Game Programming/Development**
+  * 🌐 **AR/VR/MR/XR**
+
+**Check out my repositories and feel free to leave your feedback.**
 
 ---
 
@@ -56,5 +59,18 @@
 **GitHub Trophies:**
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=radical)
+
+---
+
+
+**GitHub Badges:**
+
+![GitHub followers](https://img.shields.io/github/followers/Sarah-Hesham-2022?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sarah-Hesham-2022?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Sarah-Hesham-2022?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Sarah-Hesham-2022?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sarah-Hesham-2022/your-repo-name)
+![GitHub last commit](https://img.shields.io/github/last-commit/Sarah-Hesham-2022/your-repo-name)
+![GitHub license](https://img.shields.io/github/license/Sarah-Hesham-2022/your-repo-name)
 
 ---
