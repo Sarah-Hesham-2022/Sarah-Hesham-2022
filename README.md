@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am interested in utilizing computational techniques and research methodologies to address industry challenges, drive innovation and solve complex problems, always open to new opportunities that offer continuous learning, professional growth, and the chance to apply cutting-edge technologies in a dynamic environment.
+I am interested in utilizing computational techniques and research methodologies to address industry challenges, drive innovation and solve complex problems, I am always open to new opportunities that offer continuous learning, professional growth, and the chance to apply cutting-edge technologies in a dynamic environment.
 
 ## About me
 
@@ -25,7 +25,6 @@ I am interested in utilizing computational techniques and research methodologies
 
 - 💬 **Ask me about any of my repositories and I will happily explain anything.**
 - ⚡ **Fun fact: I enjoy learning English and German languages in my free time.**
-- ✨ **Feel free to reach out anytime, I'm always open to connections and collaborations.**
 </p>
 
 ---
@@ -41,6 +40,7 @@ I am interested in utilizing computational techniques and research methodologies
   </a>
 </p>
 
+- ✨ **Feel free to reach out anytime, I'm always open to connections and collaborations.**
 ---
 
 ## 📊 Most Used Languages
