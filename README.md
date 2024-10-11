@@ -62,11 +62,11 @@
 ## 🏆 GitHub Profile Trophy:
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=3" alt="GitHub Profile Trophy" width="650"/> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=3" alt="GitHub Profile Trophy" width="350"/> 
 </p>
 
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="175"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="155"/>
 </p>
