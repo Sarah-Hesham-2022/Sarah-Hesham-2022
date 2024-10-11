@@ -54,7 +54,7 @@
 ## 📈 GitHub Stats:
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=dark&count_private=true&card_width=500" alt="GitHub Stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=dark&count_private=true&card_width=650" alt="GitHub Stats" width="650"/> 
 </p>
 
 ---
@@ -62,12 +62,11 @@
 ## 🏆 GitHub Profile Trophy:
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=4" alt="GitHub Profile Trophy" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=3" alt="GitHub Profile Trophy" width="650"/> 
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" />
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="175"/>
 </p>
-
