@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-
+I am interested in utilizing computational techniques and research methodologies to address industry challenges, drive innovation and solve complex problems, always open to new opportunities that offer continuous learning, professional growth, and the chance to apply cutting-edge technologies in a dynamic environment.
 
 ## About me
 
@@ -23,9 +23,9 @@
   - 🌀 **Extended Reality (XR)**
   - 🎨 **Mixed Reality (MR)** <br><br>
 
-- 💬 **Ask me about**: I'm happy to discuss any of my repositories or projects.<br>
-- ⚡ **Fun fact**: In my free time, I enjoy learning English and German languages.<br>
-- ✨ **Feel free to reach out**: I'm always open to connections and collaborations.
+- 💬 **Ask me about any of my repositories and I will happily explain anything.**
+- ⚡ **Fun fact: I enjoy learning English and German languages in my free time.**
+- ✨ **Feel free to reach out anytime, I'm always open to connections and collaborations.**
 </p>
 
 ---
