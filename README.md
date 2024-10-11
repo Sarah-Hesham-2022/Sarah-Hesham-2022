@@ -68,5 +68,5 @@
 ---
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="155"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="100"/>
 </p>
