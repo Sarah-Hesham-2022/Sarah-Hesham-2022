@@ -2,7 +2,7 @@
 
 
 
-## About Me
+## About me
 
 - **Interests**:
   - 🤖 **Artificial Intelligence (AI)** 
@@ -23,9 +23,9 @@
   - 🌀 **Extended Reality (XR)**
   - 🎨 **Mixed Reality (MR)** <br><br>
 
-- 💬 **Ask Me About**: I'm happy to discuss any of my repositories or projects.<br>
-- ⚡ **Fun Fact**: In my free time, I enjoy learning English and German languages.<br>
-- ✨ **Feel Free to Reach Out**: I'm always open to connections and collaborations.
+- 💬 **Ask me about**: I'm happy to discuss any of my repositories or projects.<br>
+- ⚡ **Fun fact**: In my free time, I enjoy learning English and German languages.<br>
+- ✨ **Feel free to reach out**: I'm always open to connections and collaborations.
 </p>
 
 ---
@@ -59,7 +59,7 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy:
+## 🏆 GitHub Profile Trophies:
 
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=3" alt="GitHub Profile Trophy" width="350"/> 
