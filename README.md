@@ -12,12 +12,12 @@ I am interested in utilizing computational techniques and research methodologies
   - 📊 **Data Science**
   - 👀 **Computer Vision**
   - 📚 **Natural Language Processing (NLP)**
-  -  
+    
   - 🧬 **Bioinformatics**
   - 💊 **Drug Design**
   - 🧫 **Computational Biology**
   - 🧩 **Protein Structural & Sequential Analysis**
-  -  
+    
   - 🖥️ **Computer Graphics**
   - 🎮 **Game Development**
   - 🌐 **Augmented Reality (AR)**
