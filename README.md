@@ -11,11 +11,11 @@ I am interested in utilizing computational techniques and research methodologies
   - 🎨 **Generative Artificial Intelligence (GenAI)**
   - 📊 **Data Science**
   - 👀 **Computer Vision**
-  - 📚 **Natural Language Processing (NLP)** <br>
+  - 📚 **Natural Language Processing (NLP)** <br> <br>
   - 🧬 **Bioinformatics**
   - 💊 **Drug Design**
   - 🧫 **Computational Biology**
-  - 🧩 **Protein Structural & Sequential Analysis** <br>
+  - 🧩 **Protein Structural & Sequential Analysis** <br> <br>
   - 🖥️ **Computer Graphics**
   - 🎮 **Game Development**
   - 🌐 **Augmented Reality (AR)**
