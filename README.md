@@ -70,4 +70,3 @@ I am interested in utilizing computational techniques and research methodologies
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="80"/>
 </p>
-
