@@ -53,9 +53,11 @@ I am interested in utilizing computational techniques and research methodologies
 
 ## 📈 GitHub Stats:
 
-<p align="center"> 
-  ![Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark)
-</p>
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark)
+
+</div>
 
 ---
 
