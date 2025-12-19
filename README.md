@@ -56,16 +56,12 @@ I am interested in utilizing computational techniques and research methodologies
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=dark&count_private=true&card_width=650" alt="GitHub Stats" width="650"/> 
 </p>
+
 ---
 
 ## 🏆 GitHub Profile Trophies:
 
-<div align="center">
-
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Sarah-Hesham-2022&theme=onedark&column=3)
-
-</div>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark)
 
 
 ---
