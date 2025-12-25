@@ -42,22 +42,19 @@ I am interested in utilizing computational techniques and research methodologies
 
 - ✨ **Feel free to reach out anytime, I'm always open to connections and collaborations.**
 ---
-
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&langs_count=10&theme=dark&card_width=500" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarah-Hesham-2022&layout=compact&langs_count=10&theme=dark&card_width=500" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats:
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark" alt="Stats" />
+</p>
 
 ---
 
