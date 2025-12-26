@@ -44,17 +44,13 @@ I am interested in utilizing computational techniques and research methodologies
 ---
 ## 📊 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&langs_count=10&theme=dark" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sarah-Hesham-2022&layout=compact&langs_count=10&theme=dark)
 
 ---
 
 ## 📈 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark" alt="Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sarah-Hesham-2022&show_icons=true&theme=onedark)
 
 ---
 
