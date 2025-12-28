@@ -44,8 +44,8 @@ I am interested in utilizing computational techniques and research methodologies
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Sarah-Hesham-2022?label=Stars&style=flat-square" height="80" />
-  <img src="https://img.shields.io/github/followers/Sarah-Hesham-2022?label=Followers&style=flat-square" height="80" />
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" height="80" />
+  <img src="https://img.shields.io/github/stars/Sarah-Hesham-2022?label=Stars&style=flat-square" width="80" />
+  <img src="https://img.shields.io/github/followers/Sarah-Hesham-2022?label=Followers&style=flat-square" width="80" />
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" width="80" />
 </p>
 
