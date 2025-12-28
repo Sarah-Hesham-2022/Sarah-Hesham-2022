@@ -43,21 +43,9 @@ I am interested in utilizing computational techniques and research methodologies
 - ✨ **Feel free to reach out anytime, I'm always open to connections and collaborations.**
 ---
 
-## 📊 Most Used Languages
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah-hesham-2022&theme=dark" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/Sarah-Hesham-2022?label=Stars&style=flat-square" height="40" />
+  <img src="https://img.shields.io/github/followers/Sarah-Hesham-2022?label=Followers&style=flat-square" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" height="40" />
 </p>
 
----
-## 📈 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah-hesham-2022&show_icons=true" alt="Stats" />
-</p>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Sarah-Hesham-2022&label=Views&color=blue&style=flat-square" alt="Visitor Count" width="80"/>
-</p>
