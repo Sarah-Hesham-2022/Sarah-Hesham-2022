@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-I am interested in utilizing computational techniques and research methodologies to address industry challenges, drive innovation and solve complex problems, I am always open to new opportunities that offer continuous learning, professional growth, and the chance to apply cutting-edge technologies in a dynamic environment.
-
 ## About me
 
 - **Interests**:
