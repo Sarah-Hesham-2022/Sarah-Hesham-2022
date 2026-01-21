@@ -3,23 +3,10 @@
 ## About me
 
 - **Interests**:
-  - 🤖 **Artificial Intelligence (AI)** 
-  - 🧠 **Machine Learning (ML)**
-  - 🔍 **Deep Learning (DL)**
-  - 🎨 **Generative Artificial Intelligence (GenAI)**
-  - 📊 **Data Science**
-  - 👀 **Computer Vision**
-  - 📚 **Natural Language Processing (NLP)** <br> <br>
+  - 🤖 **AI/ML** 
   - 🧬 **Bioinformatics**
-  - 💊 **Drug Design**
-  - 🧫 **Computational Biology**
-  - 🧩 **Protein Structural & Sequential Analysis** <br> <br>
-  - 🖥️ **Computer Graphics**
-  - 🎮 **Game Development**
-  - 🌐 **Augmented Reality (AR)**
-  - 🕶️ **Virtual Reality (VR)**
-  - 🌀 **Extended Reality (XR)**
-  - 🎨 **Mixed Reality (MR)** <br><br>
+  - 🎨 **Computer Graphics**
+
 
 - 💬 **Ask me about any of my repositories and I will happily explain anything.**
 - ⚡ **Fun fact: I enjoy learning English and German languages in my free time.**
