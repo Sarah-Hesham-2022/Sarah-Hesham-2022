@@ -5,7 +5,7 @@
 - **Interests**:
   - 🤖 **AI/ML** 
   - 🧬 **Bioinformatics**
-  - 🎨 **Computer Graphics**
+  - 🖥️ **Computer Graphics**
 
 
 - 💬 **Ask me about any of my repositories and I will happily explain anything.**
